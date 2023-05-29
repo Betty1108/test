@@ -1,7 +1,8 @@
 body {background:#DDD5B5;}
+
 p{ 
 
-  background-color: yellow;
+  background-color:yellow;
 
   padding-top:100px; 
 
@@ -17,7 +18,8 @@ p{
 
   margin-right:400px; 
 
-  margin-bottom:400px;   
+  margin-bottom:400px;  
+  
 
 }
 .video-back{ 
@@ -34,4 +36,10 @@ min-height:100%;
 
 z-index:-1;  
 
+}
+
+h2{
+  font-size:99pt ;
+  text-align:center ;
+  color: yellow;
 }
